@@ -29,7 +29,7 @@ from telegram.ext import (
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-TOKEN = "8521631399:AAH4ZHLtj7xd5KRAznOB9rMBJGr1SiMN7Zc"
+TOKEN = "REPLACE WITH TOKEN\!"
 
 # Set this to the message_id of your pinned "Daily Reward" post
 DAILY_REWARD_MESSAGE_ID = None  # e.g. 42
